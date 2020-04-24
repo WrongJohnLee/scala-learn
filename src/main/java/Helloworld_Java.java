@@ -5,4 +5,5 @@ public class Helloworld_Java {
         Function foo = (Function<Integer, Integer>) i -> i * i;
         System.out.println(foo.apply(1));
     }
+
 }
