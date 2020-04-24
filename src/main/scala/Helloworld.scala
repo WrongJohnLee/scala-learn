@@ -6,5 +6,6 @@ class Helloworld {
     var st = Set(1, 2, 3, 4)
     print(st)
     st.map(f = foo).foreach(x=> println(x))
+
   }
 }
