@@ -6,4 +6,5 @@ public class Helloworld_Java {
         System.out.println(foo.apply(1));
     }
 
+
 }
